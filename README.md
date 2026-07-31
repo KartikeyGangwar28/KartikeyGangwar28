@@ -19,6 +19,36 @@ Competitive Programming
 Competitive Programming
 Web Development
 Quantitative Finance & Technology
+
+
+
+## 📊 GitHub Stats
+<!-- Stats card -->
+
+---
+
+## 🏆 GitHub Trophies
+<!-- Trophy card -->
+
+---
+
+## 📈 Contribution Graph
+<!-- Activity graph -->
+
+---
+
+## 🔥 GitHub Streak
+<!-- Streak card -->
+
+---
+
+## 📫 Connect With Me
+<!-- LinkedIn, LeetCode, Codeforces, etc. -->
+
+---
+
+## 👀 Profile Views
+<!-- Visitor counter -->
 <!--
 **KartikeyGangwar28/KartikeyGangwar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
