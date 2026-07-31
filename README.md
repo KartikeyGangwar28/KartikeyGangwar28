@@ -43,10 +43,6 @@ Quantitative Finance & Technology
 [![Kartikey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KartikeyGangwar28&theme=tokyo-night)](https://github.com/KartikeyGangwar28)
 
 ---
-## 🔥 GitHub Streak
-<!-- Streak card -->
-
----
 
 ## 📫 Connect With Me
 
