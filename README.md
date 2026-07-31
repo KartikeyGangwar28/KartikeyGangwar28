@@ -23,43 +23,37 @@ Quantitative Finance & Technology
 
 
 ## 📊 GitHub Stats
-<!-- Stats card -->
+![Kartikey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikeyGangwar28&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyGangwar28&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KartikeyGangwar28&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-<!-- Trophy card -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=KartikeyGangwar28&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 Contribution Graph
-<!-- Activity graph -->
+[![Kartikey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KartikeyGangwar28&theme=tokyo-night)](https://github.com/KartikeyGangwar28)
 
 ---
-
 ## 🔥 GitHub Streak
 <!-- Streak card -->
 
 ---
 
 ## 📫 Connect With Me
-<!-- LinkedIn, LeetCode, Codeforces, etc. -->
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartikey-gangwar-4a09a2412/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/KartikeyCodes28/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Kartikey_Gangwar)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/pod_grape_70)
 
 ## 👀 Profile Views
-<!-- Visitor counter -->
-<!--
-**KartikeyGangwar28/KartikeyGangwar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=KartikeyGangwar28&color=blueviolet&style=for-the-badge)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
