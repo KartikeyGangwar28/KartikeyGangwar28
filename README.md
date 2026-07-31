@@ -4,24 +4,24 @@
 🎯 Aspiring Quant Developer
 
 💻 Tech Stack
-C++
-Python
-HTML
-CSS
+C++||
+Python||
+HTML||
+CSS||
 JavaScript
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
 </p>
 🌱 Currently Trying My Hands ON:
-Data Structures & Algorithms
-Frontend Development
-Backend Development
+Data Structures & Algorithms||
+Frontend Development||
+Backend Development||
 Competitive Programming
 
 🚀 Interests
-Competitive Programming
-Web Development
-Quantitative Finance & Technology
+Competitive Programming||
+Web Development||
+Quantitative Finance & Technology||
 
 
 
