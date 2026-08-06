@@ -4,8 +4,8 @@
 🎯 Aspiring Quant Developer
 
 💻 Tech Stack
---C++||
---Python||
+C++||
+Python||
 HTML||
 CSS||
 JavaScript
@@ -17,12 +17,12 @@ Data Structures & Algorithms||
 Frontend Development||
 Backend Development||
 Competitive Programming
-
+---
 🚀 Interests
 Competitive Programming||
 Web Development||
 Quantitative Finance & Technology||
-
+---
 
 
 ## 📊 GitHub Stats
