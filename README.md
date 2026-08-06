@@ -4,8 +4,8 @@
 🎯 Aspiring Quant Developer
 
 💻 Tech Stack
-C++||
-Python||
+--C++||
+--Python||
 HTML||
 CSS||
 JavaScript
